@@ -1,0 +1,18 @@
+.vh {
+  height: calc(100vh - 96px);
+}
+
+/* fade */
+@media only screen and (max-width: 768px) {
+  .sidebar-closed {
+    height: 0px;
+    margin-left: -600px;
+    transition: 0.4s ease-in;
+  }
+
+  .sidebar-open {
+    height: calc(100vh - 96px);
+    display: block;
+    transition: 0.4s ease-in;
+  }
+}
