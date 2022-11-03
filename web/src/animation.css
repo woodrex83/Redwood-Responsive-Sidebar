@@ -6,7 +6,7 @@
 @media only screen and (max-width: 768px) {
   .sidebar-closed {
     height: 0px;
-    margin-left: -600px;
+    margin-left: -24rem;
     transition: 0.4s ease-in;
   }
 

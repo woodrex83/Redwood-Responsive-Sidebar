@@ -24,6 +24,7 @@
   },
   "packageManager": "yarn@3.2.3",
   "dependencies": {
-    "bootstrap-icons": "^1.9.1"
+    "bootstrap-icons": "^1.9.1",
+    "react-responsive": "^9.0.0"
   }
 }
